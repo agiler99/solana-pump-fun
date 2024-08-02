@@ -6,9 +6,9 @@ Also modified the code to send the associated token account creation in a single
 
 Solana Pump Fun is an open-source package designed to facilitate the execution and simulation of buy and sell transactions for pump.fun on the Solana blockchain. This tool is useful for developers and enthusiasts looking to understand transaction mechanics and resource consumption on Solana.
 
-If you're looking for a launch bundler check out my other repository at: https://github.com/agiler99/pump-fun-token-launcher
+If you're looking for a launch bundler check out my other repository at: https://github.com/guru6673/pump-fun-token-launcher
 
-Services are for hire, contact me at https://t.me/agiler99
+Services are for hire, contact me at https://t.me/guru6673
 ## Features
 
 - Simulates buy and sell transactions for pump.fun on the Solana blockchain.
